@@ -39,7 +39,12 @@ https://github.com/bhuvi-ai/sales-conversation-dataset.git
 ```
 
 2. Install the required dependencies:
-
+```
+pip install transformers
+pip install pandas
+pip install datetime
+pip install random
+```
 
 3. Run the `run.py` script:
 
