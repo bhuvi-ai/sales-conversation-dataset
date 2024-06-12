@@ -35,7 +35,7 @@ As an incentive for generating more extensive datasets, we introduce bonus point
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/bhuvi-ai/sales-conversation-dataset.git
+https://github.com/bhuvi-ai/sales-conversation-dataset.git
 ```
 
 2. Install the required dependencies:
